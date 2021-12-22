@@ -6,11 +6,12 @@ body {
   color: white;
   text-align: center;
   font-size: 100px;
+  font-family: 'Anton', sans-serif;
 }
 
 p {
   color: white;
-  font-family: verdana;
+  font-family: 'Anton', sans-serif;
   text-align: center;
   font-size: 50px;
 }
