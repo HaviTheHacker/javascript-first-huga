@@ -31,14 +31,15 @@ p {
   font-size: 30px;
   color: white;
   font-family: 'Anton', sans-serif;
-  position: fixed;
-  bottom: 100;
-  right: 1000;
+  margin: auto;
+  text-align: center;
 }
 
 button{
   color: white;
   background-color: black
   font-family: 'Anton', sans-serif;
-  margin: auto;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
