@@ -24,11 +24,4 @@ p {
   border: 10px solid black;
 }
 
-div.button {
-  display:inline-block;
-  -webkit-appearance:button;
-  padding:3px 8px 3px 8px;
-  font-size:13px;
-  position:relative;
-  cursor:context-menu;
-}
+
