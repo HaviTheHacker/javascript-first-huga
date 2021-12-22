@@ -17,8 +17,8 @@ p {
 }
 
 .box {
-  height: 1000px;
-  width: 1500px;
+  height: 500px;
+  width: 50px;
   padding: 10px;
   margin: auto;
   border: 10px solid black;
