@@ -31,6 +31,14 @@ p {
   font-size: 30px;
   color: white;
   font-family: 'Anton', sans-serif;
+  position: fixed;
+  bottom: 100;
+  right: 1000;
+}
+
+button{
+  color: white;
+  background-color: black
+  font-family: 'Anton', sans-serif;
   margin: auto;
-  text-align: center;
 }
