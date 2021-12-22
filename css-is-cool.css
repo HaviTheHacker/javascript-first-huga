@@ -22,7 +22,8 @@ p {
   padding: 10px;
   margin: 5px;
   border: 10px solid black;
-  background-color: #adcf36
+  background-color: #adcf36;
+  text-align: center;
 }
 
 
