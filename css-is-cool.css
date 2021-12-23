@@ -43,7 +43,7 @@ body {
     position: absolute;
     right: 50vw;
     top: 809px;
-    animation: bullyslide 10s forwards;
+    animation: bullyslide 5s forwards;
     transform: translateX(55%);
   }
   @keyframes bullyslide {
