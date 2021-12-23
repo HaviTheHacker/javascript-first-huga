@@ -70,8 +70,14 @@ body {
     from {
       background: blue;
     }
+    25% {
+      background: purple;
+    }
     50% {
       background: green;
+    }
+    75% {
+      background: yellow;
     }
     to {
       background: red;
