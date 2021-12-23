@@ -24,6 +24,7 @@ body {
     border: 10px solid black;
     background-color: #a81717;
     text-align: center;
+    animation: colorparty 5s infinite alternate;
   }
   
   
@@ -63,3 +64,16 @@ body {
    }  
    .right{    
    text-align: right;  
+  }
+  
+  @keyframes colorparty {
+    from {
+      background: blue;
+    }
+    50% {
+      background: green;
+    }
+    to {
+      background: red;
+    }
+  }
