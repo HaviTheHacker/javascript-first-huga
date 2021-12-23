@@ -43,9 +43,17 @@ body {
     position: absolute;
     right: 50vw;
     top: 809px;
+    animation: bullyslide 10s forwards;
     transform: translateX(55%);
   }
-  
+  @keyframes bullyslide {
+    from {
+      top: 0;
+    }
+    to {
+      top:809px;
+    }
+  }
   
   .left {    
    text-align: left;  
