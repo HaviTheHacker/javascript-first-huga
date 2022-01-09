@@ -2,12 +2,12 @@
     font-family: 'Anton', sans-serif;
     color:#2dbeb7;
     background-color:#3c424e;
-    text-align:center;
+    
     box-shadow: -1px 15px 9px 0px rgba(33, 32, 34, 0.651);
     border-radius: 50px;
     width: 150px;
-    margin: auto;
-    padding: 18%;
+    
+    padding: 5%;
     font-size:50px;
     cursor: pointer;
     text-decoration: none;
@@ -28,6 +28,43 @@
 }
 .button1:active {
     background-color: #3c424e;
-    box-shadow: -1px 8px 9px 0px rgba(33, 32, 34, 0.651);
+    box-shadow: -1px 8px 9px 0px rgba(33, 32, 34, 0.897);
+    transform:translateY(16px);
+}
+
+
+
+
+.little {
+    font-family: 'Anton', sans-serif;
+    color:#1beb8a;
+    background-color:#12f3e0;
+    text-align:center;
+    box-shadow: -1px 15px rgba(33, 32, 34, 0.651);
+    border-radius: 50px;
+    width: 150px;
+    margin: auto;
+    padding: 5%;
+    font-size:50px;
+    cursor: pointer;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    transition: .2s ease;
+    
+    animation: push 3s  ;
+  }
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #3c424e;
+}
+.button2:hover {
+    color:#37e0d8;
+    background-color:#00ff95;
+}
+.button2:active {
+    background-color: #07da82;
+    box-shadow: -1px 8px  rgba(33, 32, 34, 0.897);
     transform:translateY(16px);
 }
