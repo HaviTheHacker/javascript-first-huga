@@ -3,7 +3,7 @@
     color:#2dbeb7;
     background-color:#3c424e;
     text-align:center;
-    box-shadow: -1px 6px 9px 0px rgba(33, 32, 34, 0.651);
+    box-shadow: -1px 15px 9px 0px rgba(33, 32, 34, 0.651);
     border-radius: 50px;
     width: 150px;
     margin: auto;
@@ -25,4 +25,9 @@
 .button1:hover {
     color:#2dbeb7;
     background-color:#3c424e;
+}
+.button1:active {
+    background-color: #3c424e;
+    box-shadow: -1px 8px 9px 0px rgba(33, 32, 34, 0.651);
+    transform:translateY(16px);
 }
