@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="Stylesheet" href="US.CSS">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+    <h1 class="burger">Styineburger</h1>
+    <img class="imf" src="https://cdn.picpng.com/burger_and_sandwich/painting-burger-and-sandwich-26406.png">
+    <h1 class="mtext">He loves burgers</h1>
+    <h1 class="mtext">I am snaiberg i like burgers and i got a dog name SIMBA</h1>
+    <h1 class="mtext">I like naktar</h1>
+    <h1 class="mtext">Do you naktar</h1>
+    <h1 class="mtext">pay money</h1>
+    <img class="imf" src="https://cbcsales.co.il/wp-content/uploads/2021/10/7290110114770-500x700.png">
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
